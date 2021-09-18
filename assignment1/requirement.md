@@ -14,7 +14,7 @@
 - and etc.
 
 
-## 3. please independently run the algorithms at least 30 times, and report finally report the mean and std values
+## 3. please independently run the algorithms at least 30 times, and finally report the mean and std values
 
 ## 4. please draw the evolutionary process using the data from any run
  - collecting the data (the generation number as well as its corresponding fitness value) during some run, say the fifth run;
